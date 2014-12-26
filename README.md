@@ -1,5 +1,7 @@
-Artificial Course Homework - Hill Climbing
+Artificial Intelligence Course Homework
 =========
+Hill Climbing
+---------
 The homework which done within the scope of Artificial Intelligence course - Nov/14<br>
 
 Yapay Zeka Dersi Odev
